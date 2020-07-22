@@ -1,0 +1,125 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<style>
+body {
+  color: #fff;
+  background: rgba(204, 60, 0, 0.95);
+  /*background: #300A24;*/
+}
+
+.md-shadow {
+    box-shadow: 
+      0 4px 5px 0 rgba(0,0,0,.14), 
+      0 2px 10px 0 rgba(0,0,0,.12), 
+      0 6px 4px -1px rgba(0,0,0,.2);
+}
+
+.terminal {
+  width:auto;
+  max-width:96vw;
+  margin-left:2vw;
+  margin-right:2vw;
+  text-align:left;
+  border-radius:5px;
+  margin-bottom:10px
+}
+
+@media (max-width:830px){
+  .terminal {
+    margin-right:auto;
+    margin-left:auto
+  }
+}
+
+
+.terminal__head{overflow:hidden;background-color:#d5d5d5;padding:8px 15px;border-top-left-radius:5px;border-top-right-radius:5px;}
+.terminal__dot{
+  float:left;width:12px;height:12px;border-radius:50%;
+  margin-right:7px;
+  box-shadow:0 1px 1px 0 rgba(0,0,0,.2)
+}
+
+.red{background-color:#ff6057}
+.yellow{background-color:#ffc22e}
+.green{background-color:#28ca40}
+
+.terminal__body{background-color:#1e1e1e;padding:30px 17px 20px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;}
+
+.prompt {
+  display:block;
+  margin-bottom:15px;
+  font-family:"Source Code Pro",monospace;
+  font-size:15px
+}
+
+
+  .typewriter .prompt-1 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 1s;
+  animation-fill-mode: forwards;
+}
+
+  .typewriter .prompt-2 {
+  animation: typing 5s steps(70, end) 2s;
+  }
+  
+    .typewriter .prompt-3 {
+  animation: typing 5s steps(70, end) 3s;
+  }
+  
+    .typewriter .prompt-4 {
+  animation: typing 5s steps(70, end) 4s;
+  }
+  
+    .typewriter .prompt-5 {
+  animation: typing 5s steps(70, end) 5s;
+  }
+  
+    .typewriter .prompt-6 {
+  animation: typing 5s steps(70, end) 6s;
+  }
+  
+    .typewriter .prompt-7 {
+  animation: typing 5s steps(70, end) 7s;
+  }
+
+@keyframes typing {
+  from {
+    width: 0;
+    border-right: .45em solid green;
+  }
+  to { 
+    width: 100%;
+    border-right: none;
+  }
+  50% {
+    border-color: #00FF00
+  }
+}
+</style>
+
+<div class="terminal md-shadow">
+  <div class="terminal__head">
+    <div class="terminal__dot red"></div>
+    <div class="terminal__dot yellow"></div>
+    <div class="terminal__dot green"></div>
+  </div>
+
+  <div class="terminal__body typewriter">
+    <div class="prompt prompt-1">whoami</div>
+    <div class="prompt prompt-2">fguisso</div>
+    <div class="prompt prompt-3">wellcome to the jungle/div>
+    <div class="prompt prompt-4">docker run -d --name fguisso god/life</div>
+    <div class="prompt prompt-5">container is running...</div>
+    <div class="prompt prompt-6">ps aux | grep docker</div>
+    <div class="prompt prompt-7">pkill docker</div>
+   </div>
+</div>
+
+</svg>
