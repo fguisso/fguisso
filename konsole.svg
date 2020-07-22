@@ -52,34 +52,78 @@
   animation-fill-mode: forwards;
 }
   .typewriter .prompt-2 {
-  animation: typing 5s steps(70, end) 2s;
-				color: #00FF00;
-  }
-  
-    .typewriter .prompt-3 {
-  animation: typing 5s steps(70, end) 3s;
-				color: #00FF00;
-  }
-  
-    .typewriter .prompt-4 {
-  animation: typing 5s steps(70, end) 4s;
-				color: #00FF00;
-  }
-  
-    .typewriter .prompt-5 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
   animation: typing 5s steps(70, end) 5s;
-				color: #00FF00;
-  }
-  
-    .typewriter .prompt-6 {
-  animation: typing 5s steps(70, end) 6s;
-				color: #00FF00;
-  }
-  
-    .typewriter .prompt-7 {
-  animation: typing 5s steps(70, end) 7s;
-				color: #00FF00;
-  }
+  animation-fill-mode: forwards;
+}
+  .typewriter .prompt-3 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 10s;
+  animation-fill-mode: forwards;
+}
+  .typewriter .prompt-4 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 15s;
+  animation-fill-mode: forwards;
+}
+  .typewriter .prompt-5 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 20s;
+  animation-fill-mode: forwards;
+}
+  .typewriter .prompt-6 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 25s;
+  animation-fill-mode: forwards;
+}
+  .typewriter .prompt-7 {
+  color: #00FF00;
+  font-size: 100%;
+  font-weight: normal;
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 5s steps(70, end) 30s;
+  animation-fill-mode: forwards;
+}
+
 @keyframes typing {
   from {
     width: 0;
