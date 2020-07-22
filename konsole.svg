@@ -98,7 +98,7 @@
   <div class="terminal__body typewriter">
     <div class="prompt prompt-1">whoami</div>
     <div class="prompt prompt-2">fguisso</div>
-    <div class="prompt prompt-3">wellcome to the jungle/div>
+    <div class="prompt prompt-3">wellcome to the jungle</div>
     <div class="prompt prompt-4">docker run -d --name fguisso god/life</div>
     <div class="prompt prompt-5">container is running...</div>
     <div class="prompt prompt-6">ps aux | grep docker</div>
