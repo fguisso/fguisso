@@ -13,5 +13,10 @@
 <h3 align="center">Recent blog posts</h3>
   <p align="center">
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [Basic Recon Automation Using Github Actions](https://fguisso.github.io/posts/github-actions-recon-en/)
+- [Automação básica de Recon utilizando o Github Actions](https://fguisso.github.io/posts/github-actions-recon/)
+- [Hacktoberfest Owasp](https://fguisso.github.io/posts/hacktoberfest-owasp/)
+- [Hacktoberfest Owasp English](https://fguisso.github.io/posts/hacktoberfest-owasp-en/)
+- [Conhecendo a OWASP](https://fguisso.github.io/posts/conhecendo-a-owasp/)
+<!-- BLOG-POST-LIST:END -->
   </p>
