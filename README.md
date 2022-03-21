@@ -19,3 +19,5 @@
 - [Hacktoberfest Owasp English](https://fguisso.github.io/posts/hacktoberfest-owasp-en/)
 - [Conhecendo a OWASP](https://fguisso.github.io/posts/conhecendo-a-owasp/)
 <!-- BLOG-POST-LIST:END -->
+
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=fguisso&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=35,80ffea,8aff80&theme=graywhite" />
