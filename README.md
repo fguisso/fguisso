@@ -1,23 +1,2 @@
-<p align="center">
-  <img alt="fguisso" src="https://raw.githubusercontent.com/fguisso/fguisso/master/new_terminal.svg" />
-</p>
-
-<h3 align="center">Where to find me</h3>
-  <p align="center">
-    <a href="https://github.com/fguisso" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://bolha.us/@guisso" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/fernandoguisso" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://dev.to/fguisso" target="_blank"><img alt="Dev To" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-</p>
-
-## Recent blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Python Injection](https://guisso.dev/posts/python-injection/)
-- [Threat Modeling Mermaid](https://guisso.dev/posts/tm-mermaid-example/)
-- [Basic Recon Automation Using Github Actions](https://guisso.dev/posts/github-actions-recon-en/)
-- [Automação básica de Recon utilizando o Github Actions](https://guisso.dev/posts/github-actions-recon/)
-- [Hacktoberfest Owasp](https://guisso.dev/posts/hacktoberfest-owasp/)
-<!-- BLOG-POST-LIST:END -->
-
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=fguisso&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=35,80ffea,8aff80&theme=graywhite" />
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/11/20231124-frieren-e-a-jornada-para-o-alem-abertura.jpg');]{x0000}$}
