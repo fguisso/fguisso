@@ -13,11 +13,11 @@
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox e Homelab](https://guisso.dev/posts/proxmox-debian-day/)
 - [Python Injection](https://guisso.dev/posts/python-injection/)
 - [Threat Modeling Mermaid](https://guisso.dev/posts/tm-mermaid-example/)
 - [Basic Recon Automation Using Github Actions](https://guisso.dev/posts/github-actions-recon-en/)
 - [Automação básica de Recon utilizando o Github Actions](https://guisso.dev/posts/github-actions-recon/)
-- [Hacktoberfest Owasp](https://guisso.dev/posts/hacktoberfest-owasp/)
 <!-- BLOG-POST-LIST:END -->
 
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=fguisso&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=35,80ffea,8aff80&theme=graywhite" />
