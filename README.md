@@ -13,11 +13,11 @@
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox e Homelab](https://guisso.dev/posts/proxmox-debian-day/)
-- [Python Injection](https://guisso.dev/posts/python-injection/)
-- [Threat Modeling Mermaid](https://guisso.dev/posts/tm-mermaid-example/)
-- [Basic Recon Automation Using Github Actions](https://guisso.dev/posts/github-actions-recon-en/)
-- [Automação básica de Recon utilizando o Github Actions](https://guisso.dev/posts/github-actions-recon/)
+- [Linkin Park - In the End](https://guisso.dev/music/in-the-end/)
+- [Meetup Checklist](https://guisso.dev/misc/meetup-checklist/)
+- [Contra tempo no bumbo](https://guisso.dev/music/contra-tempo-bumbo/)
+- [Vulnerabilidades de Configuração Incorreta em Proxies Reversos: Um Guia Completo](https://guisso.dev/posts/x-forwarded-for/)
+- [Proxmox e Homelab: Como Transformei um Mini PC em um Servidor de Respeito](https://guisso.dev/misc/proxmox-debian-day/)
 <!-- BLOG-POST-LIST:END -->
 
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=fguisso&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=35,80ffea,8aff80&theme=graywhite" />
