@@ -31,11 +31,11 @@ Hey! I’m Fernando Guisso, an Application Security Engineer at WillBank. Born a
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://guisso.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;span&gt;eBPF&lt;/span&gt; em Ação](https://guisso.dev/posts/ebpf-and-security/)
-- [Come as You Are Nirvana](https://guisso.dev/music/come-as-you-are-nirvana/)
-- [&lt;span&gt;Threat Modeling&lt;/span&gt; Intro](https://guisso.dev/posts/threat-modeling-intro/)
-- [Linkin Park - In the End](https://guisso.dev/music/in-the-end/)
-- [&lt;span&gt;Meetup&lt;/span&gt; Checklist](https://guisso.dev/misc/meetup-checklist/)
+- [eBPF in Action](https://guisso.dev/en/posts/ebpf-and-security/)
+- [Threat Modeling Intro](https://guisso.dev/en/posts/threat-modeling-intro/)
+- [Misconfiguration Vulnerabilities in Reverse Proxies: A Comprehensive Guide](https://guisso.dev/en/posts/x-forwarded-for/)
+- [Python Injection](https://guisso.dev/en/posts/python-injection/)
+- [Basic Recon Automation Using Github Actions](https://guisso.dev/en/posts/github-actions-recon/)
 <!-- BLOG-POST-LIST:END -->
 
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=fguisso&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=35,80ffea,8aff80&theme=graywhite" />

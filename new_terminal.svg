@@ -68,7 +68,7 @@
                 background-clip: text;
                 -webkit-background-clip: text;
                 -moz-background-clip: text;
-                background-image: linear-gradient(135deg,#9580ff 0,#80ffea 100%);
+                background-image: linear-gradient(135deg, #FFD900 0, #FFA80F 100%);
                 background-size: 100%;
                 -webkit-box-decoration-break: clone;
                 }
