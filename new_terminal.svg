@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" style="background: white" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
             <style>
                 .fakeButtons {
                 height: 10px;
@@ -271,7 +271,7 @@
                     </div>
                     <div class="fakeScreen">
                         <p class="line1">Hello, I'm <span class="cyan-green">Guisso!</span><span class="cursor1">_</span></p>
-                        <p class="line2"><span>Security Engineer</span> @ <span class="purple-cyan">Globo.</span><span class="cursor2">_</span></p>
+                        <p class="line2"><span>Security Engineer</span> @ <span class="purple-cyan">WillBank.</span><span class="cursor2">_</span></p>
                         <p class="line3">Let's <span class="yellow-pink">hack</span> the <span class="pink-purple">planet</span>?<span class="cursor3">_</span></p>
                         <p class="line4">><span class="cursor4">_</span></p>
                     </div>
